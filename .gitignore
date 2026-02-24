@@ -1,0 +1,7 @@
+*.docx
+*.csv
+.venv/
+spark311/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
